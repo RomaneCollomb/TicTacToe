@@ -1,0 +1,14 @@
+/Users/collombromane/Desktop/TicTacToe/bin/Debug/net9.0/TicTacToe
+/Users/collombromane/Desktop/TicTacToe/bin/Debug/net9.0/TicTacToe.deps.json
+/Users/collombromane/Desktop/TicTacToe/bin/Debug/net9.0/TicTacToe.runtimeconfig.json
+/Users/collombromane/Desktop/TicTacToe/bin/Debug/net9.0/TicTacToe.dll
+/Users/collombromane/Desktop/TicTacToe/bin/Debug/net9.0/TicTacToe.pdb
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.AssemblyInfo.cs
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.dll
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/refint/TicTacToe.dll
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.pdb
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/TicTacToe.genruntimeconfig.cache
+/Users/collombromane/Desktop/TicTacToe/obj/Debug/net9.0/ref/TicTacToe.dll
